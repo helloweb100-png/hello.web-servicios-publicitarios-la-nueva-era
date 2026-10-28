@@ -1,0 +1,10 @@
+AUDIO DEL SITIO
+===============
+tema.mp3  -> el tema musical del cliente (3:34 min, copia de "musica fondo.mpeg").
+             Suena en bucle durante toda la visita. Al cargar, el visitante elige
+             "Entrar con sonido" o "Entrar sin sonido" y siempre tiene el boton de
+             sonido abajo a la izquierda. Si quieres cambiar el tema, reemplaza este
+             archivo (tambien se acepta tema.m4a o tema.ogg).
+
+spot.mp3  -> OPCIONAL. Un spot de ejemplo para la tarjeta "Voceo, spots y jingles".
+             El mini reproductor aparece solo cuando este archivo existe.
